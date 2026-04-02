@@ -492,7 +492,7 @@
 }
 
 .timer-display .timer-value {
-  font-size: 4rem;
+  font-size: 2.9rem;
   font-weight: 200;
   font-family: var(--mono);
   background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
